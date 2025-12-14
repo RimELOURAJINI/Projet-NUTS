@@ -11,7 +11,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
     <modules>
-        <module>module-kong</module>        
+        <module>module-kong</module>
         <module>module-a</module>
     </modules>
 </project>

@@ -1,0 +1,11 @@
+kong:
+  consumers:
+    - username
+  jwt:
+    - key
+    - secret
+  services:
+    - name
+    - url
+    - routes
+    - plugins
